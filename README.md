@@ -1,10 +1,23 @@
 # Cheat Sheet
+Several cheat sheets useful for day-to-day work
 
+---
+
+## README-cheat-sheet
+This cheat sheet is for adding markups to the readme file
+
+### Table of Contents
+
+- [Headings](#Headings)
+
+###  Headings
+To Add
+
+---
 
 ## emoji-cheat-sheet
 This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
 
----
 ### Table of Contents
 
 - [Smileys & Emotion](#smileys--emotion)
@@ -17,8 +30,6 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 - [Symbols](#symbols)
 - [Flags](#flags)
 - [GitHub Custom Emoji](#github-custom-emoji)
-
----
 
 ### Smileys & Emotion
 
